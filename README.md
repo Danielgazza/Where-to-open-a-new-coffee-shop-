@@ -4,5 +4,7 @@ Where Morning Fuel should open a new coffee shop in Denver
 Polarity Ventures is assisting a customer, Morning Fuel, who runs coffee shops throughout Colorado. The coffee shops of the company sell high-quality, responsibly sourced coffee, pastries, and sandwiches. They have three Fort Collins locations and plan to expand into Denver. 
 
 Python
+
 Statistical analysis
+
 GeoSpatial analysis
